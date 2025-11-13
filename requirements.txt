@@ -1,0 +1,8 @@
+flask
+flask-cors
+sentence-transformers
+umap-learn
+hdbscan
+requests
+gunicorn
+python-dotenv
